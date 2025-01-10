@@ -1,0 +1,10 @@
+package org.com;
+
+public class Suvi {
+	
+	private String userid;
+	private int pass;
+		
+	}
+
+
